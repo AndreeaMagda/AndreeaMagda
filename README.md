@@ -1,9 +1,12 @@
 
 
+[![](https://visitcount.itsvg.in/api?id=AndreeaMagda&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ## Socials:🪄
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magda-andreea-07502b235/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mgandreea/?next=%2F)
+
+
 ## My skills:🪄
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
