@@ -18,3 +18,4 @@ I'm a Computer Science Student 💻
 
 ## 📈 Github Stats
 ![AndreeaMagda](https://github-readme-stats.vercel.app/api?username=AndreeaMagda&theme=material-palenight&show_icons=true)
+ ![@magdaandre51114 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=magdaandre51114)
