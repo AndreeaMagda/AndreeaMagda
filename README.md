@@ -10,11 +10,6 @@ Hi there, I'm Andreea 👋
 I'm a Computer Science Student 💻
 </h4> 
 
-##  🌱 I'm currently learning
-
-- 📱 Flutter
-- Dart
-- Firebase
 
 ## 📈 Github Stats
 ![AndreeaMagda](https://github-readme-stats.vercel.app/api?username=AndreeaMagda&theme=material-palenight&show_icons=true)
